@@ -1,0 +1,54 @@
+#!/bin/bash
+
+cat -  \
+| sed \
+-e 's/KA/か/g' \
+-e 's/KI/き/g' \
+-e 's/KU/く/g' \
+-e 's/KE/け/g' \
+-e 's/KO/こ/g' \
+-e 's/SA/さ/g' \
+-e 's/SI/し/g' \
+-e 's/SU/す/g' \
+-e 's/SE/せ/g' \
+-e 's/SO/そ/g' \
+-e 's/TA/た/g' \
+-e 's/TI/ち/g' \
+-e 's/TU/つ/g' \
+-e 's/TE/て/g' \
+-e 's/TO/と/g' \
+-e 's/NA/な/g' \
+-e 's/NI/に/g' \
+-e 's/NU/ぬ/g' \
+-e 's/NE/ね/g' \
+-e 's/NO/の/g' \
+-e 's/HA/は/g' \
+-e 's/HI/ひ/g' \
+-e 's/HU/ふ/g' \
+-e 's/HE/へ/g' \
+-e 's/HO/ほ/g' \
+-e 's/MA/ま/g' \
+-e 's/MI/み/g' \
+-e 's/MU/む/g' \
+-e 's/ME/め/g' \
+-e 's/MO/も/g' \
+-e 's/YA/や/g' \
+-e 's/YU/ゆ/g' \
+-e 's/YO/よ/g' \
+-e 's/RA/ら/g' \
+-e 's/RI/り/g' \
+-e 's/RU/る/g' \
+-e 's/RE/れ/g' \
+-e 's/RO/ろ/g' \
+-e 's/WA/わ/g' \
+-e 's/WO/を/g' \
+-e 's/A/あ/g' \
+-e 's/I/い/g' \
+-e 's/U/う/g' \
+-e 's/E/え/g' \
+-e 's/O/お/g' \
+-e 's/N/ん/g' \
+-e 's/n/ナ/g' \
+-e 's/m/ム/g' \
+-e 's/c/コ/g' 
+
