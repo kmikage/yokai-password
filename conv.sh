@@ -7,6 +7,11 @@ cat -  \
 -e 's/KU/く/g' \
 -e 's/KE/け/g' \
 -e 's/KO/こ/g' \
+-e 's/GA/が/g' \
+-e 's/GI/ぎ/g' \
+-e 's/GU/ぐ/g' \
+-e 's/GE/げ/g' \
+-e 's/GO/ご/g' \
 -e 's/SA/さ/g' \
 -e 's/SI/し/g' \
 -e 's/SU/す/g' \
