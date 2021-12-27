@@ -10,3 +10,7 @@ https://www.dropbox.com/s/8sg6seqwd5ijond/passwords.zip?dl=0
 
 
 https://discord.com/channels/924501371963736085/924501371963736088/924594342126051329
+
+
+* kei補足
+GitHubでは50MB以上のファイルをアップロードできないので、zipファイルを追加しています。
