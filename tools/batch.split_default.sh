@@ -12,7 +12,7 @@ echo 'ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!-' \
 do
  #echo ${c}
  cat ${FN_PASSWD} | grep "^${c}" >  ${DN_OUTPUT}/${FN_PREFIX}${c}.txt
- HASH=`cat ${DN_OUTPUT}/${FN_PREFIX}${c}.txt | sha256sum`
+ HASH=`cat ${DN_OUTPUT}/${FN_PREFIX}${c}.txt | sha256sum | awk -F' ' '{print $1}'`
  echo "${FN_PREFIX}${c}.txt ${HASH}" >> ${DN_OUTPUT}/${FN_HASH}
 done
 
