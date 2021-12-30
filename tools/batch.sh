@@ -14,7 +14,7 @@ git checkout main
 
 wait
 
-./tools.batch.git_autocommit.sh
+./tools/batch.git_autocommit.sh
 
 
 wait
