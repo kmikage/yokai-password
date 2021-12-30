@@ -2,7 +2,7 @@
 
 FN_PASSWD="./passwords/passwords.txt"
 FN_PREFIX="passwords_"
-FN_HASH="passwods.sha256"
+FN_HASH="passwords.sha256"
 DN_OUTPUT="./passwords"
 
 
