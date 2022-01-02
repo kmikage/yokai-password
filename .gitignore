@@ -1,7 +1,9 @@
 tmp/*
 work/*
 tools_local/*
+tools/tanzaku_conv/original/*
+tools/tanzaku_conv/conv/*
+website/index.html
 passwords/passwords.txt
 passwords/passwords.zip
 passwords/passwords.gz
-
