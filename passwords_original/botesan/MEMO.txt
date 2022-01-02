@@ -1,0 +1,15 @@
+元データ
+https://discord.com/channels/924501371963736085/925131877688434700/926633756687745044
+output3-sorted.zip
+
+抽出方法
+cat output3.txt | grep -v ^1LZ | grep -v KOKU | grep -v ^Z-A\\. | grep -v -P ^Z-A\\d | grep -v -P ^LOR\\d | grep -v SUMON | grep -v TUUTI | grep -v WAFUU | grep -v ZITU | grep -v -P ^\\..+GUU$ | grep -v -P '^ATU[\d\.!-]' | grep -v '^ATU[A-F]' | grep -v '^Z.*FX' | grep -v '^Y.*FX' | grep -v TODAY | grep TOMY -v | grep ^ING -v | grep '^Z.*ING' -v | grep '^Y.*ING' -v | grep '^X.*ING' -v | grep '^W.*ING' -v | grep '^V.*ING' -v | grep '^R.*ING' -v | grep '^Q.*ING' -v | grep '^U.*ING' -v | grep '^T.*ING' -v | grep '^S.*ING' -v | grep -P '^[\\.!-].*ING' -v | grep '^P.*ING' -v | grep '^O.*ING' -v > PASSWORD-TSUKARETA-BOTESAN-0101-2151.txt
+
+結果ファイル
+PASSWORD-TSUKARETA-BOTESAN-0101-2151.txt
+
+差分抽出方法
+diff -Z output3.txt PASSWORD-TSUKARETA-BOTESAN-0101-2151.txt > 差分（除外したパスワード）.txt
+
+差分ファイル
+差分（除外したパスワード）.txt
