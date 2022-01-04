@@ -1,6 +1,6 @@
 #!/bin/sh
 
-FN_PASSWD="./original/passwords.txt"
+FN_PASSWD="./conv/passwords.work.txt"
 FN_PREFIX="passwords_"
 DN_OUTPUT="./conv"
 
