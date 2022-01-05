@@ -1,0 +1,5 @@
+# 作業用CLI(MEMO)
+
+# 14文字のパスワード以外をあぶり出し
+cat rpasswords.txt  | grep -v '^.\{14\}$' | less
+
