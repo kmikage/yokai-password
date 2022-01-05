@@ -2,8 +2,11 @@
 
 FN_PASSWD="./rejected_passwords/rpasswords.txt"
 FN_PREFIX="rpasswords_"
-FN_HASH="passwords.sha256"
+FN_HASH="rpasswords.sha256"
 DN_OUTPUT="./rejected_passwords"
+
+# init checksum file.
+echo '' > ${DN_OUTPUT}/${FN_HASH}
 
 # A-Z0-F!-
 echo 'ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!-' \

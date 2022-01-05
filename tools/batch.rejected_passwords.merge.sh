@@ -9,10 +9,12 @@ find ./rejected_passwords_original/ -name 'rpasswords_*.txt' \
  | while read FN
    do
     cat ${FN} >> ${FN_TEMP}
+    echo '' >> ${FN_TEMP}
    done
 
 cat ${FN_TEMP} \
  | sort -u \
+ | grep -v '^$' \
   > ${FN_PASSWD}
 
 rm ${FN_TEMP}
