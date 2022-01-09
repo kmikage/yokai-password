@@ -37,3 +37,10 @@ Imaha486さんのoutput3-4.txtから[U]ではじまる一部　5098件
 次回からpasswords-last3256849beta.txtを目視予定。現在yokaidiff.exeと格闘中
 
 https://discord.com/channels/924501371963736085/927551686812246036/929378261132275712
+
+---
+2022.01.09 22:07
+Imaha486さんのoutput3-4.txtから[U]ではじまる一部　8276件
+passwords-last3256849beta.txtは複数の事情により取りやめ。
+
+https://discord.com/channels/924501371963736085/927551686812246036/929723116425465936
