@@ -4,7 +4,7 @@
 ## ミラーサイト
 [https://yokaipw.ddns.net/](https://yokaipw.ddns.net/)
 
-## 全パスワード
+## 全パスワード(zip)
 - [passwords.zip](https://yokaipw.ddns.net/files/passwords.zip)
 
 ## チェックサム
