@@ -1,9 +1,11 @@
 tmp/*
 work/*
-tools_local/*
 tools/tanzaku_conv/original/*
 tools/tanzaku_conv/conv/*
+tools/config.ftp_html.sh
+tools_local/*
 website/index.html
 passwords/passwords.txt
 passwords/passwords.zip
 passwords/passwords.gz
+
