@@ -7,8 +7,8 @@ USER=$2
 PASS=$3
 FP_FILE=$4
 
-DIR=dirname ${FP_FILE}
-FILE=basename ${FP_FILE}
+DIR=`dirname ${FP_FILE}`
+FILE=`basename ${FP_FILE}`
 
 pushd ${DIR}
 
@@ -23,6 +23,7 @@ if [ $# -eq 3 ];then
     cd public_html/yokaipw.ddns.net
     ls
 END
+    popd
     exit 0
 fi
 

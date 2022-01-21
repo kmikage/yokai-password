@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if [ -e "config.ftp_html.sh" ]; then
- . config.ftp_html.sh 
+if [ -e "./tools/config.ftp_html.sh" ]; then
+ . ./tools/config.ftp_html.sh 
 else
  echo "no config file."
  exit 1
