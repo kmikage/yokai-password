@@ -24,11 +24,11 @@ if [ "${FLG_ERR}" != "0" ]; then
  echo 'Using a URL in first option??'
  exit 1
 fi
-
+mkdir -p ${DIR_RPASSWD}/api-${CFG_ID}/
 
 # Download Current json 
 curl -s ${CFG_URL} \
- > ${DIR_WORK}/${CFG_PREFIX_RPW}api_${CFG_ID}.json 
+ > ${DIR_WORK}/${CFG_PREFIX_RPW}api.json 
 
 # Convert
 cat ${DIR_WORK}/${CFG_PREFIX_RPW}api.json \
@@ -37,7 +37,7 @@ cat ${DIR_WORK}/${CFG_PREFIX_RPW}api.json \
  > ${DIR_WORK}/${CFG_PREFIX_RPW}api.txt
 
 # get Original passwords
-cat ${DIR_RPASSWD}/api_${CFG_ID}/${CFG_PREFIX_RPW}*.txt \
+cat ${DIR_RPASSWD}/api-${CFG_ID}/${CFG_PREFIX_RPW}*.txt \
  | sort -u \
  > ${DIR_WORK}/${CFG_PREFIX_RPW}orig.txt
 
@@ -60,9 +60,8 @@ if [ "${FLG}" != "0" ]; then
  > ${DIR_WORK}/${CFG_PREFIX_RPW}${DATE}.txt
 
  # copy
- mkdir -p ${DIR_RPASSWD}/api_${CFG_ID}/
  cp -prv ${DIR_WORK}/${CFG_PREFIX_RPW}${DATE}.txt \
-  ${DIR_RPASSWD}/api_${CFG_ID}/${CFG_PREFIX_RPW}${DATE}.txt
+  ${DIR_RPASSWD}/api-${CFG_ID}/${CFG_PREFIX_RPW}${DATE}.txt
 fi
 
 rm -rf ${DIR_WORK}
