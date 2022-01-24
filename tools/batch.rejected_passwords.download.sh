@@ -11,6 +11,11 @@ git pull
 wait
 
 MSG=`echo "Auto Import."`
+
+git add .
 echo ${MSG} | commit -m -
+
+git push
+
 exit 0
 
