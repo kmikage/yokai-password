@@ -12,4 +12,5 @@ git pull
 ./tools/batch.rejected_passwords.git_autocommit.sh
 ./tools/batch.rejected_passwords.summary.sh 
 
+/tools/batch.rejected_passwords.send_tanzaku.sh >/dev/null 2>/dev/null &
 exit 0
