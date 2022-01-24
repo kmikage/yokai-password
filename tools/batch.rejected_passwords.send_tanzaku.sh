@@ -15,8 +15,8 @@ pushd ${DIR_RPW_ORIG}
  DIRS=` \
   ls -l \
   | grep '^d' \
-  | grep -v 'api-' \
   | awk -F' ' '{print $9}' \
+  | grep -v '^api-' \
  `
 popd
 
