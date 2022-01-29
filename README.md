@@ -14,14 +14,14 @@
 ### パスワード解析
 - @0x7FF ([Twitter](https://twitter.com/0x7FF))
 - @A_SixSquare ([Twitter](https://twitter.com/A_SixSquare))
-- @Imaha486 ([Twitter](https://twitter.com/Imaha486))
+- @Imaha486 ([Twitter](https://twitter.com/Imaha486),  [Wiki](https://i486.mods.jp/yokaiwiki/))
 - @K_Satori ([Twitter](https://twitter.com/K_Satori))
 - @UnBrkblCrbn ([Twitter](https://twitter.com/UnBrkblCrbn))
 - @Yu_Ti_S6 ([Twitter](https://twitter.com/Yu_Ti_S6))
 - @command774 ([Twitter](https://twitter.com/command774))
 - @fuyuduki ([Twitter](https://twitter.com/fuyuduki))
 - @kuu_00013 ([Twitter](https://twitter.com/kuu_00013))
-- @obaky ([Twitter](https://twitter.com/obaky))
+- @obaky ([Twitter](https://twitter.com/obaky),  [Blog](https://polymega.blog.jp/archives/78015705.html))
 - @taka_hvc1 ([Twitter](https://twitter.com/taka_hvc1))
 - Luzuly#1295
 - YH#8655
@@ -36,7 +36,7 @@
 - 赤白園#9838
 
 ### ハズレパスワード探索
-- @Imaha486 ([Twitter](https://twitter.com/Imaha486))
+- @Imaha486 ([Twitter](https://twitter.com/Imaha486),  [Wiki](https://i486.mods.jp/yokaiwiki/))
 - Luzuly#1295
 - botesan#8880 ([Twitter](https://twitter.com/botesan))
 - over80#4563
@@ -46,7 +46,7 @@
 - @Imaha486 ([Twitter](https://twitter.com/Imaha486))
 - @kazuhito_m ([Twitter](https://twitter.com/kazuhito_m),  [Website](https://youkaiosugi.com/))
 - @kei9298p ([Twitter](https://twitter.com/kei9298p))
-- botesan#8880 ([Twitter](https://twitter.com/botesan))
+- botesan#8880 ([Twitter](https://twitter.com/botesan),  [GitHub](https://github.com/kmikage))
 - crus_m#6673
 - pklion#5029 ([GitHub](https://github.com/pklion))
 - tanzaku#2547 ([Twitter](https://twitter.com/tanzaku_sub))
