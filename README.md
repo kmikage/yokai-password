@@ -9,44 +9,44 @@
 - [ハズレパスワードリスト](https://github.com/kmikage/yokai-password/tree/main/rejected_passwords)
 
 
-## コントリビュータ－（順不同）
+## コントリビュータ－（文字コード順）
 
 ### パスワード解析
-- YH#8655
-- crus_m#6673
+- @0x7FF ([Twitter](https://twitter.com/0x7FF))
+- @A_SixSquare ([Twitter](https://twitter.com/A_SixSquare))
+- @Imaha486 ([Twitter](https://twitter.com/Imaha486))
+- @K_Satori ([Twitter](https://twitter.com/K_Satori))
+- @UnBrkblCrbn ([Twitter](https://twitter.com/UnBrkblCrbn))
+- @Yu_Ti_S6 ([Twitter](https://twitter.com/Yu_Ti_S6))
+- @command774 ([Twitter](https://twitter.com/command774))
+- @fuyuduki ([Twitter](https://twitter.com/fuyuduki))
+- @kuu_00013 ([Twitter](https://twitter.com/kuu_00013))
+- @obaky ([Twitter](https://twitter.com/obaky))
+- @taka_hvc1 ([Twitter](https://twitter.com/taka_hvc1))
 - Luzuly#1295
+- YH#8655
+- botesan#8880 ([Twitter](https://twitter.com/botesan))
+- crus_m#6673
 - kagura1050#2269
 - over80#4563
+- tanzaku#2547 ([Twitter](https://twitter.com/tanzaku_sub))
 - いぷしろん#8693
+- お餅のkerohira#6792 ([Twitter](https://twitter.com/Riku_2004))
 - 冠者(KJ)#8273
 - 赤白園#9838
-- [tanzaku#2547](https://twitter.com/tanzaku_sub)
-- [botesan#8880](https://youkaiosugi.com/infomation)
-- [お餅のkerohira#6792](https://twitter.com/Riku_2004) 
-- [@0x7FF](https://twitter.com/0x7FF)
-- [@A_SixSquare](https://twitter.com/A_SixSquare)
-- [@Imaha486](https://twitter.com/Imaha486)
-- [@K_Satori](https://twitter.com/K_Satori)
-- [@UnBrkblCrbn](https://twitter.com/UnBrkblCrbn)
-- [@Yu_Ti_S6](https://twitter.com/Yu_Ti_S6)
-- [@command774](https://twitter.com/command774)
-- [@fuyuduki](https://twitter.com/fuyuduki)
-- [@kuu_00013](https://twitter.com/kuu_00013)
-- [@obaky](https://twitter.com/obaky)
-- [@taka_hvc1](https://twitter.com/taka_hvc1)
 
 ### ハズレパスワード探索
+- @Imaha486 ([Twitter](https://twitter.com/Imaha486))
 - Luzuly#1295
+- botesan#8880 ([Twitter](https://twitter.com/botesan))
 - over80#4563
 - 西園寺公望#1400
-- [botesan#8880](https://twitter.com/botesan)
-- [@Imaha486](https://twitter.com/Imaha486)
 
 ### リポジトリ運営協力
+- @Imaha486 ([Twitter](https://twitter.com/Imaha486))
+- @kazuhito_m ([Twitter](https://twitter.com/kazuhito_m),  [Website](https://youkaiosugi.com/))
+- @kei9298p ([Twitter](https://twitter.com/kei9298p))
+- botesan#8880 ([Twitter](https://twitter.com/botesan))
 - crus_m#6673
-- [pklion#5029](https://github.com/pklion)
-- [botesan#8880](https://twitter.com/botesan)
-- [tanzaku#2547](https://twitter.com/tanzaku_sub)
-- [@Imaha486](https://twitter.com/Imaha486)
-- [@kazuhito_m](https://twitter.com/kazuhito_m)
-- [@kei9298p](https://twitter.com/kei9298p)
+- pklion#5029 ([GitHub](https://github.com/pklion))
+- tanzaku#2547 ([Twitter](https://twitter.com/tanzaku_sub))
