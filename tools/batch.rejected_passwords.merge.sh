@@ -7,6 +7,7 @@ FN_PASSWD_ORIGINAL="./rejected_passwords_original/*/rpasswords_*.txt"
 
 cat ${FN_PASSWD_ORIGINAL} \
 | sort -u \
+| grep '^$' \
 > ${FN_PASSWD}
 
 exit 0
