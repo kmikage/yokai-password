@@ -1,6 +1,7 @@
 tmp/*
 work/*
 tools/tanzaku_conv/original/*
+tools/tanzaku_conv/original_monitor/*
 tools/tanzaku_conv/conv/*
 tools/config.ftp_html.sh
 tools_local/*
