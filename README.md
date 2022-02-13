@@ -9,7 +9,7 @@
 - [ハズレパスワードリスト](https://github.com/kmikage/yokai-password/tree/main/rejected_passwords)
 
 
-## コントリビュータ－（文字コード順）
+## コントリビューター（文字コード順）
 
 ### パスワード解析
 - @0x7FF ([Twitter](https://twitter.com/0x7FF))
